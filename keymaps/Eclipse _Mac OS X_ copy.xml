@@ -1,0 +1,22 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="ClassTemplateNavigation" />
+  <action id="Console.TableResult.NavigateExportedAction" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="FindUsages" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GoToClass" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="ReformatCode" />
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>

@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.1/extResources/69c70a2f_mybatis-3-config.dtd" />
+    <ignored-resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" />
+  </component>
+</application>

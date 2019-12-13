@@ -1,0 +1,10 @@
+<templateSet group="Custom-Group">
+  <template name="ct" value="#if (${PACKAGE_NAME} &amp;&amp; ${PACKAGE_NAME} != &quot;&quot;)package ${PACKAGE_NAME};#end&#10;#parse(&quot;File Header.java&quot;)&#10;/** &#10; * &#10; * @description&#10; * @author ${USER}&#10; * @time ${DATE} ${TIME} &#10; */&#10;public class ${NAME} {&#10;}" description="Class Template" toReformat="false" toShortenFQNames="true" />
+  <template name="mt" value="*&#10;* $params$&#10;* @return $returns$&#10;* @description $content$      &#10;* @author xianglong.chen&#10;* @time $date$ $time$&#10;*/&#10;" description="method template" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
