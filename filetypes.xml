@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="s" type="Markdown" />
       <mapping pattern="dubbo-adminDockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="NIO ， netty， netty线程模型和零拷贝" type="PLAIN_TEXT" />
       <mapping pattern="锁，悲观锁，乐观锁 自旋锁 偏向锁" type="PLAIN_TEXT" />
       <mapping pattern="mysql主从复制做法" type="PLAIN_TEXT" />
       <mapping pattern="new file" type="PLAIN_TEXT" />
@@ -11,21 +12,20 @@
       <mapping pattern="Zk，Kafka，Es，Redis，Mysql一致性原理" type="PLAIN_TEXT" />
       <mapping pattern="高并发场景下削峰" type="PLAIN_TEXT" />
       <mapping pattern="innodb索引 B+索引好处" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="select,poll， epoll，kqueue" type="PLAIN_TEXT" />
       <mapping pattern="find" type="PLAIN_TEXT" />
       <mapping pattern="myjf" type="PLAIN_TEXT" />
       <mapping pattern="高并发单机限流，分布式限流" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping pattern="myjf2" type="PLAIN_TEXT" />
       <mapping pattern="秒杀 综合应用" type="PLAIN_TEXT" />
       <mapping pattern="事务和分步式事务实现方法" type="PLAIN_TEXT" />
       <mapping pattern="单链表反转" type="PLAIN_TEXT" />
       <mapping pattern="字符串的最大公因串" type="PLAIN_TEXT" />
       <mapping pattern="缓存雪崩" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
-      <mapping pattern="单机应用，单中心多可用区，多中心" type="PLAIN_TEXT" />
       <mapping pattern="http VS RPC" type="PLAIN_TEXT" />
+      <mapping pattern="锁，分布式锁" type="PLAIN_TEXT" />
+      <mapping pattern="hashmap" type="PLAIN_TEXT" />
       <mapping pattern="数字最大公约数" type="PLAIN_TEXT" />
       <mapping pattern="mysql 性能查看方法，优化方法" type="PLAIN_TEXT" />
       <mapping pattern="HashMap, LinkedHashMap, Concurrenthashmap" type="PLAIN_TEXT" />
@@ -33,6 +33,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="开源项目" type="PLAIN_TEXT" />
       <mapping pattern="tree1" type="PLAIN_TEXT" />
+      <mapping pattern="mongo VS ES" type="PLAIN_TEXT" />
       <mapping pattern="秒杀，流量削峰" type="PLAIN_TEXT" />
       <mapping pattern="activemq,kafka,rocketmq" type="PLAIN_TEXT" />
       <mapping pattern="kafka" type="PLAIN_TEXT" />
@@ -45,23 +46,22 @@
       <mapping pattern="运行方法" type="PLAIN_TEXT" />
       <mapping pattern="spring" type="PLAIN_TEXT" />
       <mapping pattern="eureka，zookeeper CAP" type="PLAIN_TEXT" />
-      <mapping pattern="hashmap" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="安全传输手段，签名或者加密" type="PLAIN_TEXT" />
-      <mapping pattern="synchronized,volatile,reentranceLock" type="PLAIN_TEXT" />
       <mapping pattern="缓存和数据库数据不一致解决方法" type="PLAIN_TEXT" />
       <mapping pattern="反射原理" type="PLAIN_TEXT" />
       <mapping pattern="高并发限流" type="PLAIN_TEXT" />
-      <mapping pattern="mongo VS ES" type="PLAIN_TEXT" />
+      <mapping pattern="myjf2" type="PLAIN_TEXT" />
       <mapping pattern="集群负载均衡做法， 集群雪崩" type="PLAIN_TEXT" />
       <mapping pattern="activemq/rocketmq/kafka.md" type="PLAIN_TEXT" />
       <mapping pattern="安全传输手段 签名/加密" type="PLAIN_TEXT" />
       <mapping pattern="create" type="PLAIN_TEXT" />
-      <mapping pattern="NIO ， netty， netty线程模型和零拷贝" type="PLAIN_TEXT" />
+      <mapping pattern="synchronized,volatile,reentranceLock" type="PLAIN_TEXT" />
       <mapping pattern="redis" type="PLAIN_TEXT" />
-      <mapping pattern="锁，分布式锁" type="PLAIN_TEXT" />
-      <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping pattern="单机应用，单中心多可用区，多中心" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping ext="serc" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
       <mapping ext="configs" type="PLAIN_TEXT" />
@@ -69,6 +69,7 @@
       <mapping ext="animal" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="other" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
