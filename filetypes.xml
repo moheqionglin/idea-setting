@@ -33,6 +33,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="开源项目" type="PLAIN_TEXT" />
       <mapping pattern="tree1" type="PLAIN_TEXT" />
+      <mapping pattern="2020年15周(2020407-20200410)" type="PLAIN_TEXT" />
       <mapping pattern="秒杀，流量削峰" type="PLAIN_TEXT" />
       <mapping pattern="activemq,kafka,rocketmq" type="PLAIN_TEXT" />
       <mapping pattern="kafka" type="PLAIN_TEXT" />
