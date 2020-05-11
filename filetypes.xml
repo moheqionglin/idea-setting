@@ -22,6 +22,7 @@
       <mapping pattern="事务和分步式事务实现方法" type="PLAIN_TEXT" />
       <mapping pattern="单链表反转" type="PLAIN_TEXT" />
       <mapping pattern="字符串的最大公因串" type="PLAIN_TEXT" />
+      <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="缓存雪崩" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="单机应用，单中心多可用区，多中心" type="PLAIN_TEXT" />
