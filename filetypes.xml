@@ -50,6 +50,7 @@
       <mapping pattern="hashmap" type="PLAIN_TEXT" />
       <mapping pattern="安全传输手段，签名或者加密" type="PLAIN_TEXT" />
       <mapping pattern="synchronized,volatile,reentranceLock" type="PLAIN_TEXT" />
+      <mapping pattern="DDD.md" type="PLAIN_TEXT" />
       <mapping pattern="缓存和数据库数据不一致解决方法" type="PLAIN_TEXT" />
       <mapping pattern="反射原理" type="PLAIN_TEXT" />
       <mapping pattern="高并发限流" type="PLAIN_TEXT" />
