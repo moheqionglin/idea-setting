@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.pom" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -25,8 +25,8 @@
     <mask>*.md</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.pom</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
