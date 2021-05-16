@@ -23,10 +23,10 @@
     <mask>pom.xml</mask>
     <mask>*.scala</mask>
     <mask>*.md</mask>
-    <mask>*.pom</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.pom</mask>
     <mask>*.*</mask>
   </component>
 </application>
