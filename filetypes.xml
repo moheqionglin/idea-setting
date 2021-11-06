@@ -68,6 +68,7 @@
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
       <mapping ext="configs" type="PLAIN_TEXT" />
+      <mapping ext="applications" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="animal" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
