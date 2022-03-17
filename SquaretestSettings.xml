@@ -1,0 +1,40 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="exp-delivery-api">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="exp-delivery-api" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="exp-delivery-api_exp-delivery-api">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="exp-delivery-api" />
+              <option name="testDirectoryRoot" value="src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="63ca00ef-25dd-4995-ad08-9cc0eef7a418" />
+  </component>
+</application>
