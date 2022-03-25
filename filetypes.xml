@@ -15,6 +15,7 @@
       <mapping pattern="find" type="PLAIN_TEXT" />
       <mapping pattern="myjf" type="PLAIN_TEXT" />
       <mapping pattern="高并发单机限流，分布式限流" type="PLAIN_TEXT" />
+      <mapping pattern="编译时植入" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern="myjf2" type="PLAIN_TEXT" />
       <mapping pattern="秒杀 综合应用" type="PLAIN_TEXT" />
