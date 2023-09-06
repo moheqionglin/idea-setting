@@ -23,8 +23,8 @@
     <mask>*.md</mask>
     <mask>*.properties</mask>
     <mask>*.pom</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.*</mask>
   </component>
 </application>
